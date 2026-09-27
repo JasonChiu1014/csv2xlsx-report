@@ -1,0 +1,62 @@
+Order ID,Date,Customer,Category,Amount,Payment
+ORD-1001,2024-01-03,Nadia Petrova,Toys,69.99,Card
+ORD-1002,2024-01-08,Daniel Okafor,Home & Kitchen,150.07,PayPal
+ORD-1003,2024-01-11,Hannah Fischer,Toys,129.57,PayPal
+ORD-1004,2024-01-13,Mei-Ling Chen,Apparel,100.72,Card
+ORD-1005,2024-01-17,Wei Zhang,Apparel,58.53,Bank transfer
+ORD-1006,2024-01-19,Ravi Patel,Apparel,129.52,Card
+ORD-1007,2024-01-22,Priya Nair,Electronics,423.88,Bank transfer
+ORD-1008,2024-01-24,Tomás Silva,Toys,18.95,PayPal
+ORD-1009,2024-01-28,Yuki Tanaka,Books,19.45,Card
+ORD-2001,2024-02-14,Ravi Patel,Electronics,"$1,200.50",Card
+ORD-1010,2024-01-30,Mei-Ling Chen,Apparel,73.37,PayPal
+ORD-1011,2024-02-05,Yuki Tanaka,Books,16.45,Card
+ORD-1012,2024-02-07,Mei-Ling Chen,Books,31.02,Card
+ORD-1013,2024-02-09,Omar Haddad,Home & Kitchen,136.53,PayPal
+ORD-1014,2024-02-14,Hannah Fischer,Apparel,49.82,Card
+ORD-1015,2024-02-16,Daniel Okafor,Home & Kitchen,183.88,Card
+ORD-1016,2024-02-20,Omar Haddad,Apparel,80.50,PayPal
+ORD-1017,2024-02-22,Hannah Fischer,Home & Kitchen,69.62,Bank transfer
+ORD-1018,2024-02-25,Aiko Sato,Toys,47.03,Card
+ORD-1019,2024-02-27,Yuki Tanaka,Home & Kitchen,139.24,Card
+ORD-2002,12/03/2024,Grace Kim,Books,24.90,PayPal
+ORD-1020,2024-03-03,Lucas Moreau,Home & Kitchen,138.84,Card
+ORD-1021,2024-03-07,Grace Kim,Toys,98.22,Card
+ORD-1022,2024-03-09,Wei Zhang,Toys,89.04,Card
+ORD-1023,2024-03-11,Grace Kim,Toys,49.44,Card
+ORD-1024,2024-03-15,Mei-Ling Chen,Electronics,855.31,Card
+ORD-1025,2024-03-18,Ravi Patel,Toys,30.34,Card
+ORD-1026,2024-03-22,Ethan Walsh,Toys,124.28,Card
+ORD-1027,2024-03-23,Lucas Moreau,Toys,62.14,Card
+ORD-1028,2024-03-27,Sofia Alvarez,Apparel,39.78,PayPal
+ORD-1029,2024-03-29,Lucas Moreau,Apparel,98.00,PayPal
+ORD-1029,2024-03-29,Lucas Moreau,Apparel,98.00,PayPal
+ORD-1030,2024-04-01,Ethan Walsh,Books,36.79,Card
+ORD-1031,2024-04-06,Tomás Silva,Books,54.42,Bank transfer
+ORD-1032,2024-04-08,Ravi Patel,Toys,134.49,Card
+ORD-1033,2024-04-11,Tomás Silva,Home & Kitchen,142.31,Card
+ORD-1034,2024-04-16,Priya Nair,Books,39.53,Bank transfer
+ORD-1035,2024-04-18,Mei-Ling Chen,Apparel,149.53,Card
+ORD-1036,2024-04-21,Ravi Patel,Home & Kitchen,129.93,Card
+ORD-1037,2024-04-25,Sofia Alvarez,Apparel,53.74,Card
+ORD-2003,2024-04-22,Omar Haddad,Toys,,Card
+ORD-1038,2024-04-26,Priya Nair,Toys,89.36,Bank transfer
+ORD-1039,2024-04-30,Grace Kim,Home & Kitchen,134.06,Card
+ORD-1040,2024-05-03,Nadia Petrova,Electronics,882.13,Card
+ORD-1041,2024-05-06,Lucas Moreau,Apparel,118.52,PayPal
+ORD-1042,2024-05-09,Priya Nair,Toys,41.34,Card
+ORD-1043,2024-05-13,Lucas Moreau,Apparel,128.16,Card
+ORD-1044,2024-05-16,Lucas Moreau,Toys,61.46,PayPal
+ORD-1045,2024-05-19,Daniel Okafor,Apparel,126.99,PayPal
+ORD-1046,2024-05-22,Ethan Walsh,Books,52.03,Card
+ORD-2004,2024-02-30,Yuki Tanaka,Apparel,59.00,Card
+ORD-1047,2024-05-26,Priya Nair,Books,56.11,Card
+ORD-1048,2024-05-27,Sofia Alvarez,Books,41.44,Bank transfer
+ORD-1049,2024-05-30,Hannah Fischer,Apparel,163.91,Card
+ORD-1050,2024-06-04,Mei-Ling Chen,Toys,44.30,PayPal
+ORD-1051,2024-06-08,Wei Zhang,Apparel,161.95,Card
+ORD-1052,2024-06-10,Omar Haddad,Apparel,132.37,Card
+ORD-1053,2024-06-14,Yuki Tanaka,Electronics,691.86,Card
+ORD-1054,2024-06-17,Priya Nair,Books,18.74,Card
+ORD-1055,2024-06-18,Lucas Moreau,Toys,134.57,Bank transfer
+ORD-1056,2024-06-21,Nadia Petrova,Electronics,795.01,PayPal
